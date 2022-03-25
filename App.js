@@ -1,4 +1,4 @@
-import { StyleSheet,Modal,Text,Image,Pressable,SafeAreaView,FixedHeaderScrollView,ScrollView,StatusBar, TextPropTypes,Alert,View} from 'react-native';
+import { StyleSheet,Modal,Text,Image,Pressable,SafeAreaView,FixedHeaderScrollView,ScrollView,,View} from 'react-native';
 import React, { useState } from "react";
 const App = () => {
   const [modalVisible, setModalVisible] = useState(false);
